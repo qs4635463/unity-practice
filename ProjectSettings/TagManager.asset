@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags: []
+=======
+  tags:
+  - ghost
+>>>>>>> 0b41a1d (Maze)
   layers:
   - Default
   - TransparentFX
@@ -11,9 +16,15 @@ TagManager:
   - 
   - Water
   - UI
+<<<<<<< HEAD
   - Player
   - 
   - 
+=======
+  - Minimap
+  - Gem
+  - ghost
+>>>>>>> 0b41a1d (Maze)
   - 
   - 
   - 
